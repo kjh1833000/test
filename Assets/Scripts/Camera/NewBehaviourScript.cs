@@ -32,6 +32,11 @@ namespace Camera
             Debug.Log("아이템을 구매 합니다.");
         }
 
+        public void Trade()
+        {
+            
+        }
+
     
     }
 }
