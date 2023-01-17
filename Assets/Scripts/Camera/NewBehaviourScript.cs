@@ -40,6 +40,7 @@ namespace Camera
         public void Fall()
         {
             Debug.Log("진훈이의 유데미1");
+            Debug.Log("이지훈의 유데미2");
         }
     
     }
