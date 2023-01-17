@@ -26,6 +26,12 @@ namespace Camera
         
         }
 
+
+        public void Buy()
+        {
+            
+        }
+
     
     }
 }
