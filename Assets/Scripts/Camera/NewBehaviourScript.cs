@@ -29,7 +29,7 @@ namespace Camera
 
         public void Buy()
         {
-            
+            Debug.Log("아이템을 구매 합니다.");
         }
 
     
