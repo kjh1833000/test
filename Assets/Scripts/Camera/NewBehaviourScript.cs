@@ -47,6 +47,11 @@ namespace Camera
         {
             
         }
+
+        public void OnJapan()
+        {
+            Debug.Log("ㅁㄴㅇㅁㄴㅇㅁㄴㅇ");
+        }
     
     }
 }
