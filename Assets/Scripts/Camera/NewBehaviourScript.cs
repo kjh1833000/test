@@ -37,6 +37,10 @@ namespace Camera
             
         }
 
+        public void Fall()
+        {
+            
+        }
     
     }
 }
